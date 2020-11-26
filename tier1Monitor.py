@@ -49,14 +49,6 @@ for i in data:
     text_answer.insert(tk.END, status)
 
 
-'''server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-server.login("your username", "your password")
-server.sendmail(
-  "from@address.com", 
-  "to@address.com", 
-  "this message is from python")
-server.quit()'''
-    
    
 
 window.mainloop()
@@ -64,14 +56,6 @@ window.mainloop()
 
     
 
-#urls = ['http://delhaize.relexsolutions.com/auth/support', 'http://morrisons.relexsolutions.co.uk/auth/support',]
-
-#env_name = ['Delhaize','Morrisons']
-
-
-
-#today = date.today() 
-#print(today)
 
    
 
